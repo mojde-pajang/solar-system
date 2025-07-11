@@ -32,11 +32,11 @@ npm run dev
 🛠️ Tools and Libraries
 
 This project uses the following tools and dependencies:
-	-	Three.js - A powerful 3D JavaScript library.
-	-	Vite - A fast frontend build tool.
-	-	TypeScript - Ensures type safety and cleaner code.
-	-	OrbitControls - Allows camera interaction.
+- Three.js - A powerful 3D JavaScript library.
+- Vite - A fast frontend build tool.
+- TypeScript - Ensures type safety and cleaner code.
+- OrbitControls - Allows camera interaction.
 
 🧑‍🚀 Author
 
-	•	Mojdeh PAJANG
+	Mojdeh PAJANG
